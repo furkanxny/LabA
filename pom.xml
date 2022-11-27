@@ -80,4 +80,5 @@
             </plugin>
         </plugins>
     </build>
+    <name>Module5Lab-AJavaFXML</name>
 </project>
